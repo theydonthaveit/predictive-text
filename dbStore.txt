@@ -1,0 +1,65 @@
+No presenting complaint
+No presenting complaint
+Patient describes experiencing pain or problem from XXX
+Pain, distal teeth
+Pain, lower teeth
+Pain, upper teeth
+Pain anterior teeth
+Pain LRQ
+Pain LRQ
+Pain LLQ
+Pain LLQ
+Pain URQ
+Pain URQ
+Pain ULQ
+Pain ULQ
+Pain XXX
+Pain localised to jaw
+Pain localised to right side
+Pain localised to left side
+Problem, distal teeth
+Problem, lower teeth
+Problem, upper teeth
+Problem anterior teeth
+Problem LRQ
+Problem LRQ
+Problem LLQ
+Problem LLQ
+Problem URQ
+Problem URQ
+Problem ULQ
+Problem ULQ
+Problem XXX
+Problem localised to right side
+Problem localised to left side
+Patient reports mobility
+Patient reports mobility
+Tooth staining reported
+Tooth staining reported
+Sensitivity reported
+Ulcer reported
+Patient reports a broken tooth
+Patient reports broken restoration
+Patient reports broken amalgam restoration
+Patient reports broken composite restoration
+Patient reports loose filling
+Patient reports lost filling
+Patient reports high restoration
+Patient reports lost crown
+Patient reports loose crown
+Patient reports lost crown
+Patient reports loose crown
+Patient reports loose denture
+Patient reports lost denture
+Patient reports broken denture
+Patient reports uncomfortable denture
+Patient reports food trapping
+Patient reports halitosis
+Patient reports bad taste in the mouth
+Patient reports metallic taste in the mouth
+Patient reports build up on teeth
+Patient reports build up on teeth
+Patient reports build up on teeth
+Patient interested in tooth whitening
+Pain after extraction of tooth
+Pain after extraction of tooth, extracted under general anaesthetic
